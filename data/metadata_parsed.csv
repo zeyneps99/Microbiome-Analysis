@@ -1,0 +1,98 @@
+Sample ID,Country, Gender ,Age,BMI (kg/m2),Cirrhotic(Y or N),HBV related  (Y or N),Alcohol related (Y or N),Other causes related      ,INR,Crea (umol/L),Alb (g/L),TB (umol/L),PT (S),Ascites,HE,CTP,MELD,Antivirus,_-blocker 
+HD_3,China,male,45,19.58,N,N,N,N,-,66,50.9,20,-,-,-,-,-,-,-
+HD_4,China,male,38,20.05,N,N,N,N,-,53,45.9,15,-,-,-,-,-,-,-
+HD_5,China,female,43,22.38,N,N,N,N,-,45,50.3,13,-,-,-,-,-,-,-
+HD_6,China,female,38,21.48,N,N,N,N,-,50,46.3,12,-,-,-,-,-,-,-
+HD_10,China,female,40,20.2,N,N,N,N,-,65,46.1,11,-,-,-,-,-,-,-
+HD_12,China,male,40,22.55,N,N,N,N,-,72,49.1,12,-,-,-,-,-,-,-
+HD_13,China,female,56,21.48,N,N,N,N,-,47,47.0,10,-,-,-,-,-,-,-
+HD_14,China,male,51,22.58,N,N,N,N,-,76,51.9,8,-,-,-,-,-,-,-
+HD_15,China,male,56,19.81,N,N,N,N,-,79,54.3,12,-,-,-,-,-,-,-
+HD_16,China,female,41,24.44,N,N,N,N,-,48,47.3,10,-,-,-,-,-,-,-
+HD_17,China,male,46,23.05,N,N,N,N,-,83,48.0,16,-,-,-,-,-,-,-
+HD_18,China,male,43,22.31,N,N,N,N,-,59,48.6,23,-,-,-,-,-,-,-
+HD_19,China,male,57,21.88,N,N,N,N,-,64,49.0,25,-,-,-,-,-,-,-
+HD_23,China,female,35,19.22,N,N,N,N,-,58,46.1,9,-,-,-,-,-,-,-
+HD_24,China,male,36,20.7,N,N,N,N,-,58,48.2,11,-,-,-,-,-,-,-
+HD_25,China,female,49,22.89,N,N,N,N,-,64,50.5,7,-,-,-,-,-,-,-
+HD_29,China,female,33,20.31,N,N,N,N,-,45,52.1,15,-,-,-,-,-,-,-
+HD_32,China,female,54,22.72,N,N,N,N,-,43,48.2,6,-,-,-,-,-,-,-
+HD_33,China,female,34,20.57,N,N,N,N,-,30,48.3,11,-,-,-,-,-,-,-
+HD_34,China,female,40,18.59,N,N,N,N,-,43,49.0,16,-,-,-,-,-,-,-
+HD_36,China,female,32,20.32,N,N,N,N,-,32,48.7,14,-,-,-,-,-,-,-
+HD_37,China,female,45,20.17,N,N,N,N,-,60,47.9,18,-,-,-,-,-,-,-
+HD_41,China,male,52,19.92,N,N,N,N,-,70,48.9,11,-,-,-,-,-,-,-
+HD_43,China,male,36,19.71,N,N,N,N,-,61,46.5,12,-,-,-,-,-,-,-
+HD_44,China,male,41,23.92,N,N,N,N,-,57,52.0,14,-,-,-,-,-,-,-
+HD_47,China,male,58,23.62,N,N,N,N,-,79,49.3,12,-,-,-,-,-,-,-
+HD_49,China,female,41,20.83,N,N,N,N,-,50,47.5,11,-,-,-,-,-,-,-
+HD_53,China,female,50,20.55,N,N,N,N,-,48,52.8,9,-,-,-,-,-,-,-
+HD_54,China,male,47,20.76,N,N,N,N,-,57,49.7,19,-,-,-,-,-,-,-
+HD_56,China,male,31,19.03,N,N,N,N,-,87,50.2,11,-,-,-,-,-,-,-
+HD_58,China,male,52,19.03,N,N,N,N,-,81,49.4,10,-,-,-,-,-,-,-
+HD_59,China,female,23,22.91,N,N,N,N,-,57,44.1,11,-,-,-,-,-,-,-
+HD_62,China,male,62,20.58,N,N,N,N,-,63,44.3,15,-,-,-,-,-,-,-
+HD_65,China,female,43,24.98,N,N,N,N,-,41,45.4,10,-,-,-,-,-,-,-
+HD_68,China,male,33,19.59,N,N,N,N,-,62,54.1,19,-,-,-,-,-,-,-
+HD_69,China,male,26,22.73,N,N,N,N,-,83,47.8,11,-,-,-,-,-,-,-
+HD_70,China,male,52,25.35,N,N,N,N,-,87,45.6,7,-,-,-,-,-,-,-
+HD_72,China,male,47,22.46,N,N,N,N,-,82,48.1,24,-,-,-,-,-,-,-
+HD_73,China,female,45,22.63,N,N,N,N,-,72,44.8,11,-,-,-,-,-,-,-
+HD_77,China,male,35,24.04,N,N,N,N,-,73,53.2,15,-,-,-,-,-,-,-
+HD_78,China,male,32,17.86,N,N,N,N,-,89,51.9,10,-,-,-,-,-,-,-
+HD_79,China,male,25,20.93,N,N,N,N,-,86,49.0,25,-,-,-,-,-,-,-
+HD_81,China,male,45,20.05,N,N,N,N,-,73,48.2,17,-,-,-,-,-,-,-
+LD_1,China,male,44,20.76,Y,Y,Y,N,1.09,76,43.7,20,12.6,Absent,None,5,6.5,Lamivudine,None
+LD_6,China,female,47,23.73,Y,Y,N,N,1.14,63,39.4,8,13.2,Absent,None,5,1.8,None,Propranolol
+LD_7,China,female,35,24.22,Y,N,N,N,1.18,44,44.8,16,13.6,Mild,None,6,1.3,None,None
+LD_10,China,female,45,24.03,Y,Y,N,N,1.17,47,29.8,8,13.5,Mild,None,7,-0.8,Entecavir,None
+LD_13,China,male,52,24.06,Y,Y,N,N,1.13,62,43.5,14,13.6,Absent,None,5,3.6,None,None
+LD_17,China,male,18,17.93,Y,Y,N,N,1.46,52,37.5,75,17.3,Absent,None,7,11.1,"Lamivudine,Adefovir",None
+LD_18,China,female,55,21.88,Y,Y,N,N,1.22,66,27.6,16,14.2,Sever,None,9,5.6,Entecavir,None
+LD_19,China,male,44,28.03,Y,Y,N,N,1.23,78,31.0,15,14.7,Sever,None,8,7,None,None
+LD_20,China,male,45,28.65,Y,Y,N,N,1.6,84,25.8,96,18.8,Absent,None,10,17.7,"Lamivudine,Adefovir",None
+LD_21,China,male,53,20.76,Y,Y,Y,Hepatitis D virus related,1.19,66,34.4,39,13.7,Sever,None,9,8.7,None,Propranolol
+LD_24,China,female,61,25.63,Y,Y,N,N,1.41,94,35.2,49,16.4,Mild,None,7,14.8,None,None
+LD_26,China,male,38,25.88,Y,Y,N,Hepatitis E virus related,1.62,62,34.1,347,19,Absent,None,9,19.8,None,None
+LD_27,China,male,55,20.2,Y,Y,N,Hepatitis D virus related,1.7,54,25.5,106,20,Mild,None,12,14.5,None,None
+LD_28,China,male,51,21.48,Y,N,N,N,1.08,68,29.4,49,12.4,Mild,None,8,8.7,None,None
+LD_30,China,male,64,23.88,Y,Y,N,N,1.49,69,20.7,39,17.4,Absent,None,8,11.6,None,None
+LD_32,China,female,62,26.71,Y,Y,N,Hepatitis E virus related,1.65,58,15.2,87,19.4,Sever,None,12,14.1,"Lamivudine,Adefovir",None
+LD_36,China,male,66,30.86,Y,Y,N,N,1.42,49,25.9,21,16.6,Absent,None,7,5.5,None,None
+LD_39,China,female,73,21.78,Y,Y,N,schistosoma related,1.49,76,31.7,32,17.7,Mild,None,8,11.8,None,None
+LD_40,China,female,47,19.53,Y,Y,N,N,1.19,60,32.3,16,13.8,Absent,None,6,4.4,Entecavir,Propranolol
+LD_41,China,female,47,24.17,Y,Y,N,Hepatitis D virus related,1.4,36,34.6,34,16.3,Absent,None,6,4.2,None,None
+LD_44,China,female,60,19.98,Y,Y,N,N,1.22,54,29.7,90,14,Sever,None,10,10.2,"Lamivudine,Foscarnet Sodium",None
+LD_46,China,male,70,23.18,Y,Y,Y,Hepatitis D virus related,1.25,78,28.6,27,14.3,Absent,None,6,9.4,None,None
+LD_49,China,female,66,22.38,Y,Y,N,N,1.04,39,27.4,20,12,Sever,None,9,-0.4,"Lamivudine,Adefovir",None
+LD_50,China,female,45,19.2,Y,Y,N,N,1.39,55,23.4,54,15.9,Mild,None,10,9.9,None,None
+LD_51,China,male,46,25.62,Y,Y,Y,N,1.33,43,33.6,59,15.2,Absent,None,8,7.4,"Lamivudine,Adefovir",None
+LD_52,China,female,37,19.1,Y,Y,N,N,1.14,46,41.6,13,13.1,Absent,None,5,0.6,None,None
+LD_53,China,male,52,24.49,Y,Y,N,N,1.75,63,22.3,35,20.1,Sever,None,12,12.1,None,None
+LD_54,China,male,62,25.53,Y,Y,N,Hepatitis E virus related,1.56,67,24.3,34,17.8,Mild,None,9,11.3,Adefovir,None
+LD_56,China,male,48,22.65,Y,Y,Y,N,1.22,163,29.2,21,14,Sever,None,8,15.3,None,None
+LD_58,China,male,32,25.1,Y,Y,Y,N,1.19,62,42.8,22,13.6,Absent,None,5,5.9,"Lamivudine,Adefovir",None
+LD_59,China,female,58,19.56,Y,N,N,N,1.67,38,36.3,20,19.2,Mild,None,7,4.7,None,None
+LD_61,China,male,49,21.47,Y,Y,Y,N,1.47,57,43.6,108,16.8,Mild,None,8,13.5,None,None
+LD_63,China,male,43,19.72,Y,N,N,Hepatitis C virus related,1.21,59,30.2,71,14,Absent,None,8,10,None,None
+LD_64,China,female,63,25.39,Y,N,N,N,1.11,58,44.5,19,12.8,Absent,None,5,3.9,None,None
+LD_65,China,male,38,21.55,Y,Y,N,N,1.49,75,30.4,32,17.4,Mild,None,7,11.7,"Lamivudine,Adefovir",None
+LD_67,China,female,71,24.34,Y,Y,N,N,1.44,67,36.8,15,16.4,Mild,None,6,7.3,Lamivudine,None
+LD_69,China,male,52,29.02,Y,Y,N,N,1.11,75,24.1,23,13.6,Mild,None,8,7.1,Lamivudine,None
+LD_70,China,female,56,20.55,Y,Y,N,N,1.34,61,29.1,17,15.3,Sever,None,8,6.1,Lamivudine,None
+LD_71,China,male,37,20.28,Y,Y,N,N,1.69,67,35.1,90,19.4,Mild,None,9,15.9,None,None
+LD_73,China,male,42,21.72,Y,Y,N,N,1.47,62,25.0,58,16.8,Absent,None,9,11.9,None,None
+LD_77,China,male,42,29.03,Y,Y,N,N,1.58,60,28.3,70,18.6,Absent,None,9,13.1,Entecavir,None
+LD_78,China,female,47,19.81,Y,Y,N,Hepatitis E virus related,1.07,44,32.5,98,12.4,Mild,None,9,7.1,"Lamivudine,Adefovir",None
+LD_79,China,male,46,17.93,Y,Y,N,N,1.19,117,40.7,13,13.8,Absent,None,5,10,"Lamivudine,Adefovir",None
+LD_81,China,male,42,19.72,Y,Y,Y,N,1.17,88,39.7,5,13.5,Absent,None,5,3.5,"Lamivudine,Adefovir",None
+LD_83,China,male,52,23.12,Y,Y,Y,N,1.22,58,22.0,21,14.2,Sever,None,9,5.4,None,None
+LD_85,China,male,46,21.48,Y,Y,Y,N,1.2,104,40.9,17,13.9,Sever,None,7,10,None,None
+LD_86,China,female,58,20.55,Y,N,N,primary biliary cirrhosis & autoimmune related,1.45,55,25.1,118,17,Sever,None,11,13.3,None,None
+LD_87,China,male,36,21.61,Y,N,Y,N,1.21,39,25.8,26,14,Mild,None,8,-4.1,None,None
+LD_88,China,female,28,25.56,Y,Y,N,N,1.09,60,18.8,10,12.6,Sever,None,9,1.6,"Lamivudine,Adefovir",None
+LD_89,China,male,66,15.94,Y,N,Y,N,1.32,106,30.4,33,15.4,Absent,None,6,7.3,None,None
+LD_92,China,male,39,24.06,Y,Y,N,N,1.45,81,28.9,17,17.1,Sever,None,8,9.7,"Lamivudine,Adefovir",Propranolol
+LD_95,China,male,78,22.66,Y,Y,N,N,1.14,44,37.9,14,11.9,Mild,None,6,7.1,None,None
+LD_97,China,female,41,20.83,Y,Y,N,N,1.87,94,18.6,33,20,Sever,None,11,13.2,Entecavir,None
+LD_98,China,male,53,23.03,Y,Y,N,N,1.96,81,17.7,83,23.3,Sever,None,14,17.2,"Lamivudine,Adefovir",None
