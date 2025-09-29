@@ -35,7 +35,7 @@ The goal: identify non-invasive biomarkers and risk factors for cirrhosis throug
 ├── docs/
 │   ├── Investigating Non-Invasive Biomarkers and Risk Factors Associated with Liver Cirrhosis.pdf
 └── README.md
-
+```
 
 ## Methods summary
 Processes MetaPhlAn4 outputs and metadata to compute:
