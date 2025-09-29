@@ -86,8 +86,7 @@ whole metagenome shotgun sequencing, and reads that mapped to the human
 genome, along with their mated/paired reads, were eliminated from each
 sample using BWA with '-n 0.2'.
 
-> ![](../results/Figure1.png){width="3.9218755468066493in"
-> height="2.9190660542432196in"}
+> ![Figure 1](../results/Figure1.png)
 
 **Figure 1 -** Participant Characteristics (based on
 [^2^](https://www.zotero.org/google-docs/?R2k9SR))
