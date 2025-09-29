@@ -86,7 +86,7 @@ whole metagenome shotgun sequencing, and reads that mapped to the human
 genome, along with their mated/paired reads, were eliminated from each
 sample using BWA with '-n 0.2'.
 
-> ![](results/Figure1.png){width="3.9218755468066493in"
+> ![](../results/Figure1.png){width="3.9218755468066493in"
 > height="2.9190660542432196in"}
 
 **Figure 1 -** Participant Characteristics (based on
@@ -176,7 +176,7 @@ threshold of p = 0.05 used to assess statistical significance,
 suggesting that Chao1 may not be a sufficient metric for accurately
 characterizing the alpha-diversity in this dataset.
 
-![](results/Figure2.png){width="6.479034339457568in"
+![](../results/Figure2.png){width="6.479034339457568in"
 height="3.741058617672791in"}
 
 **Figure 2 -** Boxplot representation of the alpha diversity of the gut
@@ -190,7 +190,7 @@ the results obtained from these calculations, and provides insights into
 how microbial community structures differ with the absence and presence
 of liver disease.
 
-![](results/Figure3.png){width="4.618765310586177in"
+![](../results/Figure3.png){width="4.618765310586177in"
 height="3.843432852143482in"}
 
 
@@ -219,10 +219,10 @@ identification of some potential key players in liver disease.
 
 
 
-A\) ![](results/Figure4A.png){width="3.057292213473316in"
+A\) ![](../results/Figure4A.png){width="3.057292213473316in"
 height="3.057292213473316in"} 
 
-B) ![](results/Figure4B.png){width="3.4739588801399823in"
+B) ![](../results/Figure4B.png){width="3.4739588801399823in"
 height="2.989608486439195in"}
 
 **Figure 4** - A) Stacked barplots representing the mean relative
@@ -253,14 +253,14 @@ significant association with liver disease, as evidenced by the
 corresponding p-values derived from the Wilcoxon rank-sum test (Figure
 6).
 
-![](results/Figure5.png){width="5.984375546806649in"
+![](../results/Figure5.png){width="5.984375546806649in"
 height="3.550729440069991in"}
 
 **Figure 5** - Barplots illustrating species with the highest
 differences in mean relative abundance, accompanied by the corresponding
 mean difference values calculated as disease minus control.
 
-![](results/Figure6.png){width="4.515625546806649in"
+![](../results/Figure6.png){width="4.515625546806649in"
 height="3.9979101049868766in"}
 
 **Figure 6** - Boxplots showcasing the differential abundance of key
@@ -273,10 +273,10 @@ evaluated in relation to liver disease. To achieve this, alpha diversity
 correlation calculations were conducted for age, gender, BMI, Alb, Crea,
 TB, and HBV data.
 
-A\) ![](results/Figure7A.png){width="5.395833333333333in"
+A\) ![](../results/Figure7A.png){width="5.395833333333333in"
 height="3.350984251968504in"}
 
-B\) ![](results/Figure7B.png){width="5.3943110236220475in"
+B\) ![](../results/Figure7B.png){width="5.3943110236220475in"
 height="3.2604166666666665in"}
 
 
@@ -309,15 +309,15 @@ diversity versus albumin plot indicate the increase and significance of
 albumin levels in the context of liver disease (Figure 7B).
 
 
-A\)![](results/Figure8AA.png){width="2.6770833333333335in"
+A\)![](../results/Figure8AA.png){width="2.6770833333333335in"
 height="2.21662510936133in"}
- ![](results/Figure8AB.png){width="2.82874343832021in"
+ ![](../results/Figure8AB.png){width="2.82874343832021in"
 height="2.15625in"}
 
-B\) ![](results/Figure8B.png){width="2.7707808398950133in"
+B\) ![](../results/Figure8B.png){width="2.7707808398950133in"
 height="2.15625in"}
 
-C)![](results/Figure8C.png){width="2.6770833333333335in"
+C)![](../results/Figure8C.png){width="2.6770833333333335in"
 height="2.03125in"}
 
 **Figure 8** - Boxplots illustrating the alpha-diversity of the gut
@@ -336,7 +336,7 @@ considering the insights gained from the alpha diversity plots, it can
 be asserted that BMI and albumin exhibit a clear significance in the
 occurrence and progression of liver disease.
 
-![](results/Figure9.png){width="5.712889326334208in"
+![](../results/Figure9.png){width="5.712889326334208in"
 height="3.7551662292213472in"}
 
 **Figure 9** - Scatter plots of age, BMI, creatinine, albumin, and TB in
