@@ -2,8 +2,8 @@
 
 This repository contains the R code and report for an MSc course project on liver cirrhosis, gut microbiome composition, and associated risk factors.
 
-- 📄 [Full report (PDF)](results/Investigating Non-Invasive Biomarkers and Risk Factors Associated with Liver Cirrhosis.pdf)  
-- 📝 [Report in Markdown](docs/liver_cirrhosis_report.md)
+- 📄 [Full report (PDF)](results/liver_cirrhosis_report.pdf)  
+- 📝 [Report in Markdown](results/liver_cirrhosis_report.md)
 
 ---
 
