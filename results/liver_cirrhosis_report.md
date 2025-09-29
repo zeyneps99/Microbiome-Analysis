@@ -175,9 +175,7 @@ threshold of p = 0.05 used to assess statistical significance,
 suggesting that Chao1 may not be a sufficient metric for accurately
 characterizing the alpha-diversity in this dataset.
 
-![](../results/figures/Figure2.png){width="6.479034339457568in"
-height="3.741058617672791in"}
-
+![](../results/figures/Figure2.png)
 **Figure 2 -** Boxplot representation of the alpha diversity of the gut
 microbiome across control and disease groups, using Simpson, Shannon,
 and Chao1 indexes (and Inverse Simpson for visual convenience). P-values
@@ -189,9 +187,7 @@ the results obtained from these calculations, and provides insights into
 how microbial community structures differ with the absence and presence
 of liver disease.
 
-![](../results/figures/Figure3.png){width="4.618765310586177in"
-height="3.843432852143482in"}
-
+![](../results/figures/Figure3.png)
 
 **Figure 3** - PcoA plot of Bray-Curtis dissimilarity of control and
 liver disease groups with 95% confidence ellipses. Each dot represents a
@@ -218,11 +214,9 @@ identification of some potential key players in liver disease.
 
 
 
-A\) ![](../results/figures/Figure4A.png){width="3.057292213473316in"
-height="3.057292213473316in"} 
+A\) ![](../results/figures/Figure4A.png)
 
-B) ![](../results/figures/Figure4B.png){width="3.4739588801399823in"
-height="2.989608486439195in"}
+B) ![](../results/figures/Figure4B.png)
 
 **Figure 4** - A) Stacked barplots representing the mean relative
 abundance of genera present in liver disease and control patients B)
@@ -252,15 +246,12 @@ significant association with liver disease, as evidenced by the
 corresponding p-values derived from the Wilcoxon rank-sum test (Figure
 6).
 
-![](../results/figures/Figure5.png){width="5.984375546806649in"
-height="3.550729440069991in"}
-
+![](../results/figures/Figure5.png)
 **Figure 5** - Barplots illustrating species with the highest
 differences in mean relative abundance, accompanied by the corresponding
 mean difference values calculated as disease minus control.
 
-![](../results/figures/Figure6.png){width="4.515625546806649in"
-height="3.9979101049868766in"}
+![](../results/figures/Figure6.png)
 
 **Figure 6** - Boxplots showcasing the differential abundance of key
 species in liver disease in control (red) and diseased patients (blue).
@@ -272,12 +263,9 @@ evaluated in relation to liver disease. To achieve this, alpha diversity
 correlation calculations were conducted for age, gender, BMI, Alb, Crea,
 TB, and HBV data.
 
-A\) ![](../results/figures/Figure7A.png){width="5.395833333333333in"
-height="3.350984251968504in"}
+A\) ![](../results/figures/Figure7A.png)
 
-B\) ![](../results/figures/Figure7B.png){width="5.3943110236220475in"
-height="3.2604166666666665in"}
-
+B\) ![](../results/figures/Figure7B.png)
 
 
 **Figure 7** - Scatter plots of alpha-diversity and factor correlation
@@ -308,16 +296,12 @@ diversity versus albumin plot indicate the increase and significance of
 albumin levels in the context of liver disease (Figure 7B).
 
 
-A\)![](../results/figures/Figure8AA.png){width="2.6770833333333335in"
-height="2.21662510936133in"}
- ![](../results/figures/Figure8AB.png){width="2.82874343832021in"
-height="2.15625in"}
+A\)![](../results/figures/Figure8AA.png)
+ ![](../results/figures/Figure8AB.png)
 
-B\) ![](../results/figures/Figure8B.png){width="2.7707808398950133in"
-height="2.15625in"}
+B\) ![](../results/figures/Figure8B.png)
 
-C)![](../results/figures/Figure8C.png){width="2.6770833333333335in"
-height="2.03125in"}
+C)![](../results/figures/Figure8C.png)
 
 **Figure 8** - Boxplots illustrating the alpha-diversity of the gut
 microbiome across A) female (red) and male (blue) groups B) HBV (red)
@@ -335,8 +319,7 @@ considering the insights gained from the alpha diversity plots, it can
 be asserted that BMI and albumin exhibit a clear significance in the
 occurrence and progression of liver disease.
 
-![](../results/figures/Figure9.png){width="5.712889326334208in"
-height="3.7551662292213472in"}
+![](../results/figures/Figure9.png)
 
 **Figure 9** - Scatter plots of age, BMI, creatinine, albumin, and TB in
 correlation with MELD scores from diseased patients.
