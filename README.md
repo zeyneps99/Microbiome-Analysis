@@ -12,24 +12,28 @@ Whole-metagenome shotgun (WMS) sequencing data were profiled with **MetaPhlAn4**
 The goal: identify non-invasive biomarkers and risk factors for cirrhosis through diversity analyses, differential abundance testing, and covariate associations (BMI, albumin, MELD, HBV, etc.).
 
 ---
+## Repository structure
 
-## Repository structure 
-├── src/
-│   ├── 1_install_packages.R        # installs required CRAN packages
-│   └── 2_microbiome_analysis.R     # end-to-end analysis
-├── data/                           # inputs (not tracked in git)
+```text
+.
+├── R/
+│   ├── 1_install_packages.R
+│   └── 2_microbiome_analysis.R
+├── data/                     # inputs (not tracked in git; keep .gitkeep)
 │   ├── metadata_parsed.csv
-│   ├── profiled_metagenome.tab     # optional raw MetaPhlAn table
-│   ├── species_abd.csv             # main table (species)
-│   ├── genus_abd.csv               # optional for genus plots
-│   ├── family_abd.csv              # optional
-│   ├── order_abd.csv               # optional
-│   ├── class_abd.csv               # optional
-│   ├── phylum_abd.csv              # optional
-│   └── kingdom_abd.csv             # optional
-├── results/                     
+│   ├── species_abd.csv
+│   ├── genus_abd.csv
+│   ├── family_abd.csv
+│   ├── order_abd.csv
+│   ├── class_abd.csv
+│   ├── phylum_abd.csv
+│   └── kingdom_abd.csv
+├── results/
+│   ├── tables/
+│   ├── figures/
+│   └── logs/
+├── docs/
 │   ├── Investigating Non-Invasive Biomarkers and Risk Factors Associated with Liver Cirrhosis.pdf
-│   └── figures/
 └── README.md
 
 ## Methods summary
